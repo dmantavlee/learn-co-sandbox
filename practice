@@ -1,0 +1,6 @@
+def greeting
+puts "Hi, Ruby programmer!"
+end
+def greeting
+  puts "Hi, Ruby programmer!"
+end
